@@ -1,7 +1,7 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FaShoppingCart } from 'react-icons/fa';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import Image from 'next/image';
 import logo from '../public/images/gameShopLogo.png';
 
 import { Navbar, Container } from 'react-bootstrap';
@@ -31,7 +31,7 @@ export default function Nav() {
       >
         <Container>
           <Navbar.Brand href="#">
-            <img
+            <Image
             
               src={logo}
               alt="gameshop logo"
