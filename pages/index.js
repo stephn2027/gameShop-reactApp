@@ -91,7 +91,7 @@ export default function Home({ products }) {
                     <p className={styles.cardDescription}>
                       {product.description}
                     </p>
-                    <p>${product.price}</p>
+                    <p style={{color:"maroon"}}>${product.price}</p>
                     <p>
                       <button
                         className="snipcart-add-item"

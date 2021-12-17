@@ -26,7 +26,7 @@ export default function Featured({ product }) {
               <h3>{product.name}</h3>
               <HoverRating readOnly={false} />
               <p className={styles.mainDescription}>{product.description}</p>
-              <p>${product.price}</p>
+              <p style={{color:"maroon"}}>${product.price}</p>
               <p>
                 <button
                   className="snipcart-add-item"
