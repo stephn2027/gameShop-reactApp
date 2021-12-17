@@ -1,0 +1,258 @@
+.container {
+  min-height: 100vh;
+  padding: 0 0.5rem;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: max-content;
+  padding-top: 75px;
+  background-image: linear-gradient(45deg, #93a5cf 0%, #e4efe9 100%);
+  
+  
+}
+
+.main {
+  padding: 3rem 0;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.footer {
+  width: 100%;
+  height: 100px;
+  border-top: 1px solid #eaeaea;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.footer img {
+  margin-left: 0.5rem;
+}
+.footer a {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  padding: 0 1rem;
+}
+
+@media (max-width: 600px) {
+  .header {
+    flex-direction: column;
+    align-items: center;
+  }
+}
+
+.title a {
+  color: #0d8ee4;
+  text-decoration: none;
+	align-items: center;
+}
+.title {
+  margin: 0;
+  line-height: 1.15;
+  font-size: 2rem;
+}
+
+.title,
+.description {
+  text-align: center;
+}
+.description {
+  line-height: 1.5;
+  font-size: 1.5rem;
+  margin: 0;
+}
+
+.description a {
+  display: flex;
+  align-items: center;
+}
+
+.description svg {
+  margin-right: .4em;
+}
+.description p{
+  overflow: hidden;
+}
+
+.code {
+  background: #fafafa;
+  border-radius: 5px;
+  padding: 0.75rem;
+  font-size: 1.1rem;
+  font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono,
+    Bitstream Vera Sans Mono, Courier New, monospace;
+}
+.grid {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  max-width: 1200px;
+  margin-top: 3rem;
+}
+.card {
+  margin: 1rem;
+  width: 250px;
+  padding: 1.5rem;
+  text-align: left;
+  color: inherit;
+  text-decoration: none;
+  border: 1px solid #eaeaea;
+  border-radius: 10px;
+  transition: color 0.15s ease, border-color 0.15s ease;
+  height: max-content;
+  overflow-y:auto;
+  min-height: 370px;
+  transition: ease-in .3s;
+  cursor: pointer;
+  background: linear-gradient(165deg, #ffffff, #f2f6f9ec, #e4edf2d9)
+ 
+}
+.cardcontainer{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  line-height: .9;
+  
+  /* margin-block: auto ; */
+}
+.card:hover{
+  box-shadow: 0px 1px 2px #888080;
+  transform:scale(1.01)
+}
+
+.card h3 {
+  padding-top: .5rem;
+  margin: 0 0 .5em 0;
+  font-size: 1em;
+  color: #444242;
+}
+
+.card p {
+  font-size: .8em;
+  line-height: .9;
+  margin: .6em 0;
+  color: #444242;
+  
+}
+.card img{
+  display: block;
+  width: 75%;
+  margin-inline: auto;
+}
+
+
+.card button {
+  color: white;
+  font-size: 1em;
+  font-weight: bold;
+  background-color:var(--orange);
+  padding: .4em .6em;
+  border: none;
+  border-radius: .4em;
+  cursor: pointer;
+  display: block;
+  margin-block: auto;
+  transition: ease-in-out .2s;
+}
+.card button:hover{
+  opacity: .8;
+}
+
+.logo {
+  height: 12rem;
+}
+.cardDescription{
+  overflow-y: auto;
+  height: 20px;
+}
+.footer{
+  width: 110%;
+  background-color: rgb(105, 108, 148);
+}
+@media (max-width: 600px) {
+  .grid {
+    width: 100%;
+    flex-direction: column;
+  }
+}
+
+.displayWrapper{
+ margin-block: 2rem;
+ min-height: 50vh;
+ width: 100%;
+ height: max-content;
+ margin-inline: auto;
+ border-radius: 1rem;
+ 
+}
+.displayMain{
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  width: 100%;
+  height: max-content;
+  border: none;
+  margin-inline: auto;
+  max-width:950px;
+  border-radius: .4rem;
+  box-shadow: 0px 0px 10px rgba(1, 19, 10, 0.459);
+  background: linear-gradient(165deg, #ffffff, #fcfdfdf9, #f8fafbf4);
+}
+.displayContainer{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  margin: 3rem;
+  justify-content: center;
+  
+ 
+}
+.image-container{
+  margin-inline: auto;
+}
+.imageWrapper{
+  width: 60%;
+  min-width: 350px;
+}
+.textwrapper{
+  padding-top: 2rem;
+  margin-block: auto;
+  align-items: center;
+  min-width: 300px;
+  width: 40%;
+  min-width: 300px;
+  padding-right: .5rem;
+}
+.textwrapper button{
+  color: rgb(255, 255, 255);
+  background-color: var(--orange);
+  border-radius: .1rem .1rem .1rem .1rem;
+  border: none;
+  font-size: 1rem;
+  font-weight: bolder;
+  padding:.5rem;
+  transition: ease .2s all;
+}
+.textwrapper button:hover{
+  transform:scale(.96);
+}
+.mainDescription{
+
+}
+.additionalInfo{
+  margin: 3rem;
+}
+.displayAdditional{
+  width: fit-content;
+}

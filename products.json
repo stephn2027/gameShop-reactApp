@@ -1,0 +1,157 @@
+[
+    {
+        "title": "Halo Infinite - Xbox Series X",
+        "image": "https://imgur.com/i0zAzqY.jpeg",
+        "id": "game_logo",
+        "description": "GameStop is excited to bring you Halo Infinite on Xbox One and Xbox Series X! Master Chief is back in his most epic adventure to date. Experience the ultimate gameplay and explore a stunning sci-fi world in this riveting, first person shooter video game. Halo Infinite release date Holiday 2021.",
+        "price": "59.99",
+        "details": {
+            "text": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. The legendary Halo series returns with the most expansive Master Chief story yet.",
+            "features": {
+                "feature1": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+                "feature2": "Campaign: When all hope is lost and humanity’s fate hangs in the balance, Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and finally explore the scale of the Halo ring itself.",
+                "feature3": "Multiplayer: Halo’s celebrated multiplayer returns! More information coming later this year (requires Xbox Live Gold on console, membership sold separately).",
+                "feature4": "Forge: Halo’s epic content creation tool is back and more powerful than ever. More information coming later this year.",
+                "feature5": "Cross-Generation Gaming: Halo Infinite provides an amazing experience across the Xbox One and newer family of consoles as well as PC with stunning graphics and world-class cross-platform play. And, on Xbox Series X as well as supported PCs, enjoy enhanced features like up to 4k resolution at 60FPS in campaign and greatly reduced load times creating seamless gameplay that usher in the next generation of gaming."
+            }
+        },
+        "reviews": [{
+            "comment": "Amazing Graphics",
+            "user": "Ares Spartan",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"3.5"
+        },
+        {
+            "comment": "Realistic!!",
+            "user": "Jack W",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"2.5"
+        },
+        {
+            "comment": "Fun gameplay!",
+            "user": "smoothA@rexz",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"4.0"
+        }]
+        
+    },
+    {
+        "title": "Snipcart Logo Sticker Pack",
+        "id": "sticker_logo_pack",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "400",
+        "image": "https://imgur.com/66VcSuy.jpeg",
+
+        "details": {
+            "text": "Whens alls hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. The legendary Halo series returns with the most expansive Master Chief story yet.",
+            "features": {
+                "feature1": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+                "feature2": "Campaign: When all hope is lost and humanity’s fate hangs in the balance, Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and finally explore the scale of the Halo ring itself.",
+                "feature3": "Multiplayer: Halo’s celebrated multiplayer returns! More information coming later this year (requires Xbox Live Gold on console, membership sold separately).",
+                "feature4": "Forge: Halo’s epic content creation tool is back and more powerful than ever. More information coming later this year.",
+                "feature5": "Cross-Generation Gaming: Halo Infinite provides an amazing experience across the Xbox One and newer family of consoles as well as PC with stunning graphics and world-class cross-platform play. And, on Xbox Series X as well as supported PCs, enjoy enhanced features like up to 4k resolution at 60FPS in campaign and greatly reduced load times creating seamless gameplay that usher in the next generation of gaming."
+            }
+        },
+        "reviews": [{
+            "comment": "Amazings Graphics",
+            "user": "Aresd Spartans",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"3.5"
+        }
+    ]
+    },
+    {
+        "title": "Game Logo Sticker",
+        "image": "https://imgur.com/Fxg1QPi.jpeg",
+        "id": "game_logo1",
+        "description": "Show off your Game with this logo sticker",
+        "price": "200",
+        "details": {
+            "text": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. The legendary Halo series returns with the most expansive Master Chief story yet.",
+            "features": {
+                "feature1": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+                "feature2": "Campaign: When all hope is lost and humanity’s fate hangs in the balance, Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and finally explore the scale of the Halo ring itself.",
+                "feature3": "Multiplayer: Halo’s celebrated multiplayer returns! More information coming later this year (requires Xbox Live Gold on console, membership sold separately).",
+                "feature4": "Forge: Halo’s epic content creation tool is back and more powerful than ever. More information coming later this year.",
+                "feature5": "Cross-Generation Gaming: Halo Infinite provides an amazing experience across the Xbox One and newer family of consoles as well as PC with stunning graphics and world-class cross-platform play. And, on Xbox Series X as well as supported PCs, enjoy enhanced features like up to 4k resolution at 60FPS in campaign and greatly reduced load times creating seamless gameplay that usher in the next generation of gaming."
+            }
+        },
+        "reviews": [{
+            "comment": "Amazing Graphics",
+            "user": "Ares Spartan",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"3.5"
+            
+        }]
+    },
+    {
+        "title": "Snipcart Logo Sticker Pack",
+        "id": "sticker_logo_pack1",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "400",
+        "image": "https://imgur.com/66VcSuy.jpeg",
+
+        "details": {
+            "text": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. The legendary Halo series returns with the most expansive Master Chief story yet.",
+            "features": {
+                "feature1": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+                "feature2": "Campaign: When all hope is lost and humanity’s fate hangs in the balance, Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and finally explore the scale of the Halo ring itself.",
+                "feature3": "Multiplayer: Halo’s celebrated multiplayer returns! More information coming later this year (requires Xbox Live Gold on console, membership sold separately).",
+                "feature4": "Forge: Halo’s epic content creation tool is back and more powerful than ever. More information coming later this year.",
+                "feature5": "Cross-Generation Gaming: Halo Infinite provides an amazing experience across the Xbox One and newer family of consoles as well as PC with stunning graphics and world-class cross-platform play. And, on Xbox Series X as well as supported PCs, enjoy enhanced features like up to 4k resolution at 60FPS in campaign and greatly reduced load times creating seamless gameplay that usher in the next generation of gaming."
+            }
+        },
+        "reviews": [{
+            "comment": "Amazing Graphics",
+            "user": "Ares Spartan",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"3.5"
+        }]
+    },
+    {
+        "title": "Game Logo Sticker",
+        "image": "https://imgur.com/Fxg1QPi.jpeg",
+        "id": "game_logo2",
+        "description": "Show off your Game with this logo sticker",
+        "price": "200",
+        "details": {
+            "text": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. The legendary Halo series returns with the most expansive Master Chief story yet.",
+            "features": {
+                "feature1": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+                "feature2": "Campaign: When all hope is lost and humanity’s fate hangs in the balance, Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and finally explore the scale of the Halo ring itself.",
+                "feature3": "Multiplayer: Halo’s celebrated multiplayer returns! More information coming later this year (requires Xbox Live Gold on console, membership sold separately).",
+                "feature4": "Forge: Halo’s epic content creation tool is back and more powerful than ever. More information coming later this year.",
+                "feature5": "Cross-Generation Gaming: Halo Infinite provides an amazing experience across the Xbox One and newer family of consoles as well as PC with stunning graphics and world-class cross-platform play. And, on Xbox Series X as well as supported PCs, enjoy enhanced features like up to 4k resolution at 60FPS in campaign and greatly reduced load times creating seamless gameplay that usher in the next generation of gaming."
+            }
+        },
+        "reviews": [{
+            "comment": "Amazing Graphics",
+            "user": "Ares Spartan",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"3.5"
+        }]
+    },
+    {
+        "title": "Snipcart Logo Sticker Pack",
+        "id": "sticker_logo_pack2",
+        "description": "Get a pack of 3 Snipcart logo stickers.",
+        "price": "400",
+        "image": "https://imgur.com/66VcSuy.jpeg",
+        "details": {
+            "text": "When all hope is lost and humanity’s fate hangs in the balance, the Master Chief is ready to confront the most ruthless foe he’s ever faced. The legendary Halo series returns with the most expansive Master Chief story yet.",
+            "features": {
+                "feature1": "The legendary Halo series returns with the most expansive Master Chief campaign yet.",
+                "feature2": "Campaign: When all hope is lost and humanity’s fate hangs in the balance, Master Chief is ready to confront the most ruthless foe he’s ever faced. Begin anew and step inside the armor of humanity’s greatest hero to experience an epic adventure and finally explore the scale of the Halo ring itself.",
+                "feature3": "Multiplayer: Halo’s celebrated multiplayer returns! More information coming later this year (requires Xbox Live Gold on console, membership sold separately).",
+                "feature4": "Forge: Halo’s epic content creation tool is back and more powerful than ever. More information coming later this year.",
+                "feature5": "Cross-Generation Gaming: Halo Infinite provides an amazing experience across the Xbox One and newer family of consoles as well as PC with stunning graphics and world-class cross-platform play. And, on Xbox Series X as well as supported PCs, enjoy enhanced features like up to 4k resolution at 60FPS in campaign and greatly reduced load times creating seamless gameplay that usher in the next generation of gaming."
+            }
+        },
+        "reviews": [{
+            "comment": "Amazing Graphics",
+            "user": "Ares Spartan",
+            "reviewtext": "This game will be awesome on epic proportions. Updated graphics, sound and environment and with a great protagonist what more could you ask for a definite buy for me",
+            "rating":"3.5"
+        }]
+    }
+]

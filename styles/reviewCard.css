@@ -1,0 +1,8 @@
+.review-card_container{
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+}
+.review-card_body{
+
+}
