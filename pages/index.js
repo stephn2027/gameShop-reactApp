@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
-import Image from 'next/image';
+
 import {gsap} from 'gsap';
 import client from '../apolloClient';
 import { gql } from '@apollo/client';
