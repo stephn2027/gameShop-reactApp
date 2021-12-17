@@ -1,10 +1,9 @@
 import React, { useEffect, useState } from 'react';
 import styles from '../styles/Home.module.css';
-import Head from 'next/head';
-import Image from 'next/image';
+
+
 import HoverRating from '../components/HoverRating';
-import TextDetails from './TextDetails';
-import Reviews from './Reviews';
+
 import Accordions from './Accordions';
 export default function Featured({ product }) {
   const [reviews, setReviews] = useState([product.reviews]);
