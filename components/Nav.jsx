@@ -1,9 +1,9 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { FaShoppingCart } from 'react-icons/fa';
 import 'bootstrap/dist/css/bootstrap.min.css';
-import NavStyle from '../styles/Nav.module.css';
+
 import logo from '../public/images/gameShopLogo.png';
-import Image from 'next/image';
+
 import { Navbar, Container } from 'react-bootstrap';
 export default function Nav() {
   const [total, setTotal] = useState(0);
@@ -14,9 +14,7 @@ export default function Nav() {
     }
   }, []);
 
-  const myLoader = ({ src, width, quality }) => {
-    return `https://example.com/${src}?w=${width}&q=${quality || 75}`;
-  };
+  
 
   return (
     <React.Fragment>
@@ -33,8 +31,8 @@ export default function Nav() {
       >
         <Container>
           <Navbar.Brand href="#">
-            <Image
-            loader={myLoader}
+            <img
+            
               src={logo}
               alt="gameshop logo"
               width={200}
