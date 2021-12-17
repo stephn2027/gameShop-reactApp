@@ -34,7 +34,7 @@ export default function Nav() {
         <Container>
           <Navbar.Brand href="#">
             <Image
-            //   loader={myLoader}
+            loader={myLoader}
               src={logo}
               alt="gameshop logo"
               width={200}
