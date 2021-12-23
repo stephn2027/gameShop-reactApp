@@ -14,8 +14,6 @@ export default function Nav() {
     }
   }, []);
 
-  
-
   return (
     <React.Fragment>
       <Navbar
@@ -32,7 +30,6 @@ export default function Nav() {
         <Container>
           <Navbar.Brand href="#">
             <Image
-            
               src={logo}
               alt="gameshop logo"
               width={200}

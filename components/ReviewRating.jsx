@@ -16,8 +16,8 @@ const labels = {
   5: 'Excellent+',
 };
 
-export default function ReviewRating({val}) {
-  const value = val|| 3.5;
+export default function ReviewRating({ val }) {
+  const value = val || 3.5;
 
   return (
     <Box

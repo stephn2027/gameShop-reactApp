@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import Head from 'next/head';
-
-import {gsap} from 'gsap';
+import { gsap } from 'gsap';
 import client from '../apolloClient';
 import { gql } from '@apollo/client';
 import Nav from '../components/Nav';
@@ -11,7 +10,6 @@ import styles from '../styles/Home.module.css';
 export default function Home({ products }) {
   const [total, setTotal] = useState(0);
   const [displayItem, setDisplayItem] = useState(sampleProduct);
-   
 
   const timeline = gsap.timeline();
   useEffect(() => {
@@ -20,9 +18,20 @@ export default function Home({ products }) {
     }
 
     setDisplayItem(sampleProduct);
-    timeline.from('#featured',{y:600,ease:'back.inOut(1.4)',duration:1,opacity:0,})
-    .from('#card',{y:600,ease:'back.inOut(1.4)',duration:1,opacity:0,delay:-.5});
-
+    timeline
+      .from('#featured', {
+        y: 600,
+        ease: 'back.inOut(1.4)',
+        duration: 1,
+        opacity: 0,
+      })
+      .from('#card', {
+        y: 600,
+        ease: 'back.inOut(1.4)',
+        duration: 1,
+        opacity: 0,
+        delay: -0.5,
+      });
   }, []);
 
   const displayValue = (product) => {
@@ -80,7 +89,7 @@ export default function Home({ products }) {
                 style={{ listStyle: 'none', textDecoration: 'none' }}
                 onClick={() => displayValue(product)}
               >
-                <div key={product.id} className={styles.card} id='card'>
+                <div key={product.id} className={styles.card} id="card">
                   <div className={styles.cardcontainer}>
                     <img
                       src={product.image[0].url}
@@ -91,7 +100,7 @@ export default function Home({ products }) {
                     <p className={styles.cardDescription}>
                       {product.description}
                     </p>
-                    <p style={{color:"maroon"}}>${product.price}</p>
+                    <p style={{ color: 'maroon' }}>${product.price}</p>
                     <p>
                       <button
                         className="snipcart-add-item"
